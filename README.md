@@ -23,6 +23,7 @@ My name is Marcel, I am a fullstack software developer from Germany. I love work
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Blazor Server](https://img.shields.io/badge/Blazor%20Server-000000?style=flat&logo=blazor&logoColor=white)
 ![Shopware 6](https://img.shields.io/badge/Shopware%206-003B6F?style=flat&logo=shopware&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ### 🔧 Backend
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
